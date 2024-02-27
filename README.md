@@ -1,2 +1,2 @@
 # SSNeRF
-<img src="https://github.com/massyzs/SSNeRF/tree/main/video/fern1.gif" width="52%"/> 
+<img src="https://github.com/massyzs/SSNeRF/video/fern1.gif" width="52%"/> 
